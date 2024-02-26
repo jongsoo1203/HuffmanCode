@@ -1,0 +1,14 @@
+Varieties of commands to try:
+hexdump -C noDupFreq.txt
+hexdump -c noDupFreq.txt
+cat noDupFreq.txt
+man hexdump
+ls -la
+
+and for .c files:
+gcc <file>.c
+cp a.out <file> -- which will be your executable
+./a.out  OR ./<file> to run
+man gcc
+man make
+
